@@ -1,5 +1,5 @@
 # hybrid_fan_control
-dual zone CPU and HD fan control for SuperMicro X10/X11 TrueNAS systems
+dual zone CPU and HD fan control for SuperMicro X10/X11/X13 TrueNAS systems
 
 I first wrote this script in 2016-09-15. And published it on the TrueNAS (then FreeNAS) forums at:
 https://www.truenas.com/community/threads/script-hybrid-cpu-hd-fan-zone-controller.46159/
